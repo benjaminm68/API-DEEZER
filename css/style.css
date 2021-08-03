@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    width: 100%;
+}
+
+h1{
+    text-align: center;
+}
+.wrapper{
+    width: 80%;
+    margin: auto;
+}
+
+.form-control{
+    width: 60%;
+    margin-right: 1em;
+}
+
+.recherche{
+    width: 50%;
+    display: flex;
+    margin: auto;
+}
